@@ -1,0 +1,42 @@
+<a href="https://www.amazon.com/s?k=nike+black+running+shoes&crid=31FRWH4XNKISD&sprefix=nike+black+running+shoe%2Caps%2C269&ref=nb_sb_noss_1" target=""_blank>
+   Back to amazon
+</a>
+<p>
+   Nike black running shoes
+</p>
+<p class="mad">
+   $39 - in Stock
+</p>
+<p>
+   Free delivery tomorrow
+</p>
+<button class="add-button">
+   Add to cart
+</button>
+<style>
+   .add-button{
+      background-color: rgb(255, 251, 0);
+      border: none;
+      border-radius: 20px;
+      color: black;
+      height: 35px;
+      width: 95px;
+      margin-right: 10px;
+   }
+   
+   .buy-button{
+      background-color: orange;
+      color: black;
+      height: 35px;
+      width: 95px;
+      cursor: pointer;
+      border-radius: 20px;
+      border: none;
+   }
+   .mad{
+      color: rgb(47, 221, 47);
+   }
+</style>
+<button class="buy-button">
+   Buy now
+</button>
